@@ -1,0 +1,25 @@
+state= {
+	id=763
+	name="STATE_763" # Anzio
+	manpower = 681971
+	
+	state_category = city
+
+	history=
+	{
+		owner = NRM
+		victory_points = { 11846 5 }
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			11846 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = NRM
+	}
+
+	provinces= {
+		923 11846 11882
+ 	}
+}

@@ -1,0 +1,3 @@
+#### Europe
+NCU = "countries/Neo-Celtic Union"
+NRM = "countries/New Roma"
